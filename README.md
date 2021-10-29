@@ -1,4 +1,4 @@
-To index data on fungal parasites and saprotrophs on bog leatherleaf (Andromeda polifolia) in raised peatlands in Western Siberia and in literature via Global Biotic Interactions (GloBI, https://globalbioticinteractions.org) .
+To index data on fungal parasites and saprotrophs on bog rosemary (Andromeda polifolia) in raised peatlands in Western Siberia and in literature via Global Biotic Interactions (GloBI, https://globalbioticinteractions.org) .
 
 See more information in: Filippova, N., Thormann, M., others, 2015. The fungal consortium of Andromeda polifolia in bog habitats. Mires and Peat 16, 1.
 
